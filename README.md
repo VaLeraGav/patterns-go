@@ -151,4 +151,5 @@ func NewConfig() *Config {
 2. [5 паттернов параллельного программирования в GO, которые сделают ваш следующий проект лучше](https://habr.com/ru/companies/otus/articles/722880/)
 3. [Паттерны многопоточности в Go](https://habr.com/ru/articles/852556/)
 4. https://refactoringguru.cn/ru/design-patterns/go
-5. Список Шаблонов параллелизма https://github.com/iamuditg/go-concurrency-patterns
+5. [Список Шаблонов параллелизма]( https://github.com/iamuditg/go-concurrency-patterns)
+6. [Паттерны параллельного программирования(concurrency) Go: Конвееры и отмена](https://github.com/Konstantin8105/Go-pipelines)
