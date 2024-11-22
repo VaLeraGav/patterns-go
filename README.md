@@ -11,6 +11,7 @@
 - [Абстрактная фабрика (Abstract Factory)](creational/abstract_factory)
 - [Строитель (Builder)](creational/builder)
 - [Фабричный метод (Factory Method)](creational/factory_method)
+- [Функциональные опции(Functional Options)](creational/functional_options)
 - [Прототип (Prototype)](creational/prototype)
 - [Одиночка (Singleton)](creational/singleton)
 
